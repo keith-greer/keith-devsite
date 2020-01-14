@@ -10,8 +10,8 @@ const portfolioItems = [
     },
     {
         title: 'Keefusoutdoors',
-        sinopsis: 'This is just a quick description. Open up for more details',
-        desc: 'This is just a javascript array of objects. Gatsby makes the JSX elements to show up',
+        sinopsis: 'A simple Wordpress Blog.',
+        desc: 'This is one of my first forays into web development. I rarely add content to this now but I have kept it as a `playground of sorts to keep up to date with the WP Eco system.`',
         img: './portfolio/bitcoin.png',
         live: 'https://www.keefusoutdoors.co.uk/',
         repo: 'https://www.keefusoutdoors.co.uk/',
