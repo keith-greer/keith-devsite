@@ -15,7 +15,7 @@ function renderFolio() {
             <span key={'dot' + idx} className='folio-title'>· </span>
                     <span  key={'pSinop' + idx} className='folio-sinopsis'>{sinopsis}</span></label>
             <div key={'tab' + idx} class="tab-content">
-            <img alt="nicasia" src={img}/>
+            <img alt={''} src={img}/>
             {desc}
             <span className="repolinks" key={'repo' + idx}><a key={'repoLink' + idx} href={repo}>Github Repo</a></span>
             
